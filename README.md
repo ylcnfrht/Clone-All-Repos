@@ -14,8 +14,8 @@ Firstly you must set your github information with any text editor and then
   * `sh clone-all-repos.sh`
 
 ###### Note: By the way you have write your information without quotes
-    * ORGANIZATION_NAME=// without quotes
-    * USER_NAME= // without quotes
-    * GITHUB_TOKEN= // without quotes
+  * ORGANIZATION_NAME=// without quotes
+  * USER_NAME= // without quotes
+  * GITHUB_TOKEN= // without quotes
   
-  *See here for token generation: https://developer.github.com/v3/auth/#working-with-two-factor-authentication
+  * See here for token generation: https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
