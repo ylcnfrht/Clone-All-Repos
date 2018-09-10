@@ -1,5 +1,5 @@
 # Clone-All-Repos
-Clone all repositories of organization
+Shell script to clone every repo of a github organization
 
 When you use this shell script
 Firstly you must set your github information with any text editor and then
